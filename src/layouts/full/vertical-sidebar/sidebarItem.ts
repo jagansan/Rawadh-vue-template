@@ -38,69 +38,59 @@ const sidebarItem: menu[] = [
       {
         title: 'Camera 1',
         icon: CircleIcon,
-        to: '/project'
+        to: '/projects'
       },
-      {
-        title: 'Camera 2',
-        icon: CircleIcon,
-        to: '/auth/register'
-      },
-      {
-        title: 'Camera 3',
-        icon: CircleIcon,
-        to: '/auth/register'
-      }
     ]
   },
-  {
-    title: 'Authentication',
-    icon: KeyIcon,
-    to: '/auth',
-    children: [
-      {
-        title: 'Login',
-        icon: CircleIcon,
-        to: '/auth/login'
-      },
-      {
-        title: 'Register',
-        icon: CircleIcon,
-        to: '/auth/register'
-      }
-    ]
-  },
-  {
-    title: 'Error 404',
-    icon: BugIcon,
-    to: '/pages/error'
-  },
-  { divider: true },
-  { header: 'Utilities' },
-  {
-    title: 'Icons',
-    icon: WindmillIcon,
-    to: '/forms/radio',
-    children: [
-      {
-        title: 'Tabler Icons',
-        icon: CircleIcon,
-        to: '/icons/tabler'
-      },
-      {
-        title: 'Material Icons',
-        icon: CircleIcon,
-        to: '/icons/material'
-      }
-    ]
-  },
-  { divider: true },
+  // {
+  //   title: 'Authentication',
+  //   icon: KeyIcon,
+  //   to: '/auth',
+  //   children: [
+  //     {
+  //       title: 'Login',
+  //       icon: CircleIcon,
+  //       to: '/auth/login'
+  //     },
+  //     {
+  //       title: 'Register',
+  //       icon: CircleIcon,
+  //       to: '/auth/register'
+  //     }
+  //   ]
+  // },
+  // {
+  //   title: 'Error 404',
+  //   icon: BugIcon,
+  //   to: '/pages/error'
+  // },
+  // { divider: true },
+  // { header: 'Utilities' },
+  // {
+  //   title: 'Icons',
+  //   icon: WindmillIcon,
+  //   to: '/forms/radio',
+  //   children: [
+  //     {
+  //       title: 'Tabler Icons',
+  //       icon: CircleIcon,
+  //       to: '/icons/tabler'
+  //     },
+  //     {
+  //       title: 'Material Icons',
+  //       icon: CircleIcon,
+  //       to: '/icons/material'
+  //     }
+  //   ]
+  // },
+  // { divider: true },
 
-  {
-    title: 'Documentation',
-    icon: HelpIcon,
-    to: 'https://codedthemes.gitbook.io/berry-vuetify/',
-    type: 'external'
-  }
+  // {
+  //   title: 'Documentation',
+  //   icon: HelpIcon,
+  //   to: 'https://codedthemes.gitbook.io/berry-vuetify/',
+  //   type: 'external'
+  // }
 ];
 
 export default sidebarItem;

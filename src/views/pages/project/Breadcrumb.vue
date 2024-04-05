@@ -10,7 +10,7 @@
         {
           title: 'Project List',
           disabled: false,
-          href: '/project',
+          href: '/projects',
         },
         {
           title: 'Project Details',

@@ -21,7 +21,7 @@
                     <VRow>
                         <VCol cols="12" sm="6" md="10">
                             <div class="project___short___detail">
-                                <h4><a href="/project-detail">Project Name - 1</a></h4>
+                                <h4><a href="/project-detail" color="main-red">Project Name - 1</a></h4>
                                 <h3><a href="/project-detail">Doha, Qatar</a></h3>
                             </div>
                         </VCol>

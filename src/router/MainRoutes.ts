@@ -6,14 +6,19 @@ const MainRoutes = {
   redirect: '/main/dashboard/default',
   component: () => import('@/layouts/full/FullLayout.vue'),
   children: [
-    {
-      name: 'LandingPage',
-      path: '/',
-      component: () => import('@/views/dashboards/default/DefaultDashboard.vue')
-    },
+    // {
+    //   name: 'LandingPage',
+    //   path: '/',
+    //   component: () => import('@/views/dashboards/default/DefaultDashboard.vue')
+    // },
+    // {
+    //   name: 'Login',
+    //   path: '/',
+    //   component: () => import('@/views/authentication/auth/LoginPage.vue')
+    // },
     {
       name: 'Project',
-      path: '/project',
+      path: '/projects',
       component: () => import('@/views/pages/project/list/ProjectList.vue')
     },
     {
@@ -21,17 +26,6 @@ const MainRoutes = {
       path: '/project-detail',
       component: () => import('@/views/pages/project/detail/ProjectDetail.vue')
     },
-    {
-      name: 'Tabler Icons',
-      path: '/icons/tabler',
-      component: () => import('@/views/utilities/icons/TablerIcons.vue')
-    },
-    {
-      name: 'Material Icons',
-      path: '/icons/material',
-      component: () => import('@/views/utilities/icons/MaterialIcons.vue')
-    },
-
   ]
 };
 

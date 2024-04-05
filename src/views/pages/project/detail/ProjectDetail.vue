@@ -1,7 +1,8 @@
 <script setup lang="ts">
-    import '../Project.css'
+    import '../../../../../assets/style/css/themevariable.scss'
+    import '../../../../../assets/style/css/style.css'
     import Breadcrumb from '../Breadcrumb.vue';
-    import CameraDetail from '../detail/CameraDetail.vue';
+    import CameraDetail from './CameraDetail.vue';
     import RelatedProjectSlider from './RelatedProjectSlider.vue';
 </script>
 

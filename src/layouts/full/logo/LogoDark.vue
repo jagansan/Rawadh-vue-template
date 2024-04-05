@@ -1,7 +1,7 @@
 <template>
-  <div class="logo">
+  <div class="logo logo__style">
     <RouterLink to="/">
-      <v-img :width="300" cover src="https://cdn.vuetifyjs.com/images/parallax/material.jpg"></v-img>
+      <v-img :width="300" cover src="../../../../src/assets/images/logo.png"></v-img>
     </RouterLink>
   </div>
 </template>

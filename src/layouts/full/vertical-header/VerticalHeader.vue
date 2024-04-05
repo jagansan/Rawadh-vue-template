@@ -62,8 +62,8 @@ function searchbox() {
     <!-- ---------------------------------------------- -->
 
     <v-sheet class="d-none d-lg-block header__menu">
-      <SearchIcon stroke-width="1.5" size="17" class="text-lightText SearchIcon" />
-      <!-- <Searchbar /> -->
+      <!-- <SearchIcon stroke-width="1.5" size="17" class="text-lightText SearchIcon" /> -->
+      <Searchbar />
     </v-sheet>
     <v-sheet class="d-none d-lg-block header__menu">
       Timelapse

@@ -27,6 +27,8 @@
     "vee-validate": "4.12.5",
     "vite-plugin-vuetify": "2.0.1",
     "vue": "3.4.19",
+    "vue-compare-image": "^0.2.0",
+    "vue-image-compare2": "^1.0.0",
     "vue-router": "4.2.5",
     "vue-tabler-icons": "2.21.0",
     "vue3-apexcharts": "1.5.2",

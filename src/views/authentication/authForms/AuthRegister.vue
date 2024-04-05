@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { ref } from 'vue';
-import Google from '@/assets/images/auth/social-google.svg';
 const checkbox = ref(false);
 const show1 = ref(false);
 const password = ref('');
@@ -56,11 +55,11 @@ function validate() {
       <a href="#" class="ml-1 text-lightText">Terms and Condition</a>
     </div>
 
-    <v-btn color="secondary" block class="mt-2" variant="flat" size="large" @click="validate()">Sign Up</v-btn>
+    <v-btn color="secondary" block class="mt-2" variant="flat" size="large" @click="validate()" to="/projects">Sign Up</v-btn>
   </v-form>
   <div class="mt-5 text-right">
     <v-divider />
-    <v-btn variant="plain" to="/auth/login" class="mt-2 text-capitalize mr-n2">Already have an account?</v-btn>
+    <v-btn variant="plain" to="/" class="mt-2 text-capitalize mr-n2">Already have an account?</v-btn>
   </div>
 </template>
 
