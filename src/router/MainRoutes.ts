@@ -26,6 +26,11 @@ const MainRoutes = {
       path: '/project-detail',
       component: () => import('@/views/pages/project/detail/ProjectDetail.vue')
     },
+    {
+      name: 'Image Compare',
+      path: '/imagecompare',
+      component: () => import('@/component/ImageCompareVue.vue')
+    },
   ]
 };
 

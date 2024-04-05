@@ -66,16 +66,16 @@ function searchbox() {
       <Searchbar />
     </v-sheet>
     <v-sheet class="d-none d-lg-block header__menu">
-      Timelapse
+      <RouterLink to="">Timelapse</RouterLink>
     </v-sheet>
     <v-sheet class="d-none d-lg-block header__menu">
-      Compare
+      <RouterLink to="/imagecompare">Compare</RouterLink>
     </v-sheet>
     <v-sheet class="d-none d-lg-block header__menu">
-      Report
+      <RouterLink to="">Report</RouterLink>
     </v-sheet>
     <v-sheet class="d-none d-lg-block header__menu">
-      More
+      <RouterLink to="">More</RouterLink>
     </v-sheet>
 
     <!---/Search part -->

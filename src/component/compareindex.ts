@@ -1,5 +1,5 @@
-import type { App, Plugin } from 'vue';
-import { VueCompareImage } from './component'
+import type { App, Plugin } from 'vue'
+import { VueCompareImage } from '.'
 
 const install: Plugin = {
   install(app: App) {

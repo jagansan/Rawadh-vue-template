@@ -47,8 +47,8 @@
                     <VRow>
                         <VCol cols="12" sm="6" md="10">
                             <div class="project___short___detail">
-                                <h4><a href="/project/project-detail">Project Name - 2</a></h4>
-                                <h3><a href="/project/project-detail">Doha, Qatar</a></h3>
+                                <h4><a href="/project-detail">Project Name - 2</a></h4>
+                                <h3><a href="/project-detail">Doha, Qatar</a></h3>
                             </div>
                         </VCol>
                         <VCol cols="12" sm="6" md="2">
@@ -73,8 +73,8 @@
                     <VRow>
                         <VCol cols="12" sm="6" md="10">
                             <div class="project___short___detail">
-                                <h4><a href="/project/project-detail">Project Name - 3</a></h4>
-                                <h3><a href="/project/project-detail">Doha, Qatar</a></h3>
+                                <h4><a href="/project-detail">Project Name - 3</a></h4>
+                                <h3><a href="/project-detail">Doha, Qatar</a></h3>
                             </div>
                         </VCol>
                         <VCol cols="12" sm="6" md="2">
@@ -99,8 +99,8 @@
                     <VRow>
                         <VCol cols="12" sm="6" md="10">
                             <div class="project___short___detail">
-                                <h4><a href="/project/project-detail">Project Name - 4</a></h4>
-                                <h3><a href="/project/project-detail">Doha, Qatar</a></h3>
+                                <h4><a href="/project-detail">Project Name - 4</a></h4>
+                                <h3><a href="/project-detail">Doha, Qatar</a></h3>
                             </div>
                         </VCol>
                         <VCol cols="12" sm="6" md="2">
@@ -126,8 +126,8 @@
                     <VRow>
                         <VCol cols="12" sm="6" md="10">
                             <div class="project___short___detail">
-                                <h4><a href="/project/project-detail">Project Name - 5</a></h4>
-                                <h3><a href="/project/project-detail">Doha, Qatar</a></h3>
+                                <h4><a href="/project-detail">Project Name - 5</a></h4>
+                                <h3><a href="/project-detail">Doha, Qatar</a></h3>
                             </div>
                         </VCol>
                         <VCol cols="12" sm="6" md="2">
@@ -152,8 +152,8 @@
                     <VRow>
                         <VCol cols="12" sm="6" md="10">
                             <div class="project___short___detail">
-                                <h4><a href="/project/project-detail">Project Name - 6</a></h4>
-                                <h3><a href="/project/project-detail">Doha, Qatar</a></h3>
+                                <h4><a href="/project-detail">Project Name - 6</a></h4>
+                                <h3><a href="/project-detail">Doha, Qatar</a></h3>
                             </div>
                         </VCol>
                         <VCol cols="12" sm="6" md="2">
@@ -178,8 +178,8 @@
                     <VRow>
                         <VCol cols="12" sm="6" md="10">
                             <div class="project___short___detail">
-                                <h4><a href="/project/project-detail">Project Name - 7</a></h4>
-                                <h3><a href="/project/project-detail">Doha, Qatar</a></h3>
+                                <h4><a href="/project-detail">Project Name - 7</a></h4>
+                                <h3><a href="/project-detail">Doha, Qatar</a></h3>
                             </div>
                         </VCol>
                         <VCol cols="12" sm="6" md="2">
@@ -204,8 +204,8 @@
                     <VRow>
                         <VCol cols="12" sm="6" md="10">
                             <div class="project___short___detail">
-                                <h4><a href="/project/projectdetail">Project Name - 8</a></h4>
-                                <h3><a href="/project/projectdetail">Doha, Qatar</a></h3>
+                                <h4><a href="/projectdetail">Project Name - 8</a></h4>
+                                <h3><a href="/projectdetail">Doha, Qatar</a></h3>
                             </div>
                         </VCol>
                         <VCol cols="12" sm="6" md="2">
